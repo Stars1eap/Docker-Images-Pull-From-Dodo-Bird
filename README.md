@@ -1,6 +1,6 @@
 # Docker 镜像拉取工具（Linux）
 
-一个基于渡渡鸟镜像源（https://docker.aityp.com）的轻量级 Docker 镜像拉取工具，提供更便捷的镜像搜索和拉取体验。
+一个基于渡渡鸟镜像源（https://docker.aityp.com） 的 由 Go 语言编写的轻量级 Docker 镜像拉取工具，提供更便捷的镜像搜索和拉取体验。
 
 ## 1.1 功能特性
 
